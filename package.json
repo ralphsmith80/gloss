@@ -19,14 +19,14 @@
     "url": "git+ssh://git.siqbuild.lab/gloss.git"
   },
   "dependencies": {
-    "mesh-client": "git+ssh://git.siqbuild.lab/mesh-client.git",
-    "bedrockjs": "git+ssh://git.siqbuild.lab/bedrockjs.git",
-    "siq-vendor-js": "git+ssh://git.siqbuild.lab/siq-vendor-js.git"
+    "mesh-client": "git://github.com/ralphsmith80/mesh-client.git",
+    "bedrockjs": "git://github.com/ralphsmith80/bedrockjs.git",
+    "gloss-vendor": "git://github.com/ralphsmith80/gloss-vendor.git"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-cli": "^0.1.13",
-    "grunting": "git+ssh://git.siqbuild.lab/grunting.git"
+    "grunting": "git://github.com/ralphsmith80/grunting.git"
   },
   "csi": {
     "name": "gloss",
